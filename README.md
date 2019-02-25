@@ -1,3 +1,7 @@
+
 # hello-world Master1
 My first repository Master2
-Master3
+
+Verifing the read-me edit feature along with merging.
+
+
